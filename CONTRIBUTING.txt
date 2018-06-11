@@ -1,0 +1,3 @@
+Pasos para crear buenos problemas o solicitudes de extracción.
+Enlaces a documentación externa, listas de correo o un código de conducta.
+Comunidad y expectativas de comportamiento.
